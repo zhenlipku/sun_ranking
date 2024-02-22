@@ -1,4 +1,4 @@
-# sun_ranking
+# Sun_Ranking
 This repository contains MATLAB code for Conjugate Bayesian Online Ranking for the Thurstone-Mosteller Model using Unified Skew-Normal Distributions. The paper associated with this code is provided in the 'pdf' folder. The code was developed and tested on an AMD Ryzen 3700X processor using MATLAB R2020A.
 
 # How to reproduce results in our paper:
